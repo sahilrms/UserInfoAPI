@@ -1,4 +1,3 @@
-```markdown
 # Express User Authentication Example
 
 A simple Express application with endpoints for user registration and login.
